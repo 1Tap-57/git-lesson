@@ -1,2 +1,2 @@
-# git-lesson
+# git_lesson
 GB lesson
